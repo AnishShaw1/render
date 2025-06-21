@@ -32,11 +32,16 @@ git clone https://github.com/your-username/customer-segmentation-app.git
 cd customer-segmentation-app
 
 ----------------------------------------------------
-**Install dependencies
-    pip install -r requirements.txt
+Install dependencies
+    
+    
+->pip install -r requirements.txt
+
 ----------------------------------------------------------
-** Run the app
-    streamlit run app.py
+Run the app
+    
+    
+->streamlit run app.py
 -------------------------------------------------------
 🧠 Model Details
 Scaler: StandardScaler (scaler.pkl)
@@ -50,17 +55,22 @@ The model segments users into 5 meaningful clusters based on behavioral patterns
 -------------------------------------------------------------------
 🎯 Segment Profiles & Recommendations
 Cluster	Profile	Business Recommendation
+
 0	Young professionals	Career tools, premium finance
+
 1	Mid-age stable earners	Family bundles, loans
+
 2	Large families with experience	Loyalty offers, education plans
+
 3	Retired / late career	Health, leisure, estate planning
+
 4	Early career starters	Starter kits, gig services
 
 ----------------------------------------------------------------------------
 
 🙋‍♂️ Author
 Anish Shaw
-🔗 LinkedIn ([add your link](https://www.linkedin.com/in/anish-shaw-2206b8220/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+🔗 LinkedIn (https://www.linkedin.com/in/anish-shaw-2206b8220/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app/)
 📧 Email: sanjayankitanish2013@gmail.com
 
 ------------------------------------------------------------------------------
