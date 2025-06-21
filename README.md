@@ -42,7 +42,9 @@ Run the app
     
     
 ->streamlit run app.py
+
 -------------------------------------------------------
+
 🧠 Model Details
 Scaler: StandardScaler (scaler.pkl)
 
@@ -70,12 +72,16 @@ Cluster	Profile	Business Recommendation
 
 🙋‍♂️ Author
 Anish Shaw
+
 🔗 LinkedIn (https://www.linkedin.com/in/anish-shaw-2206b8220/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app/)
+
+
 📧 Email: sanjayankitanish2013@gmail.com
 
 ------------------------------------------------------------------------------
 
 ⭐ Acknowledgements
+
 Built using Streamlit
 
 Clustering powered by scikit-learn
